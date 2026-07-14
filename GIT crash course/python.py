@@ -15,6 +15,6 @@ def multiply(a, b):
 result = multiply(4, 5)
 print("The product is:", result)
 
-Age = 20
+Age = 15
 print("The age is:", Age)
 
